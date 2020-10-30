@@ -1,5 +1,4 @@
-#addition calculator
+# alpine.js-calc
 
-Heyo, this is an upskill task that I completed. Using alpine.js framework, I created a basic calculator.
-# alpine.js-calc
-# alpine.js-calc
+This is a calculator using Alpine.js, but it only does addition so don't use it for anything important... 
+
